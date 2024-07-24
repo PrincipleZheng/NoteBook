@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T08:19:53.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="L-zIyHveLfc7I_NsY3jJ" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T10:21:45.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="zA7YlnzBMlTvsNKwUy_S" version="24.7.1" type="github">
   <diagram name="Page-1" id="mIlsuPGWo_PQo23G4Fa0">
     <mxGraphModel dx="1132" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,10 +83,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2I6tu4B--KC1xBCraNEP-31" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.metrics;" parent="1" vertex="1">
-          <mxGeometry x="473.75" y="670" width="54.93" height="50" as="geometry" />
+          <mxGeometry x="560.0699999999999" y="660" width="54.93" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2I6tu4B--KC1xBCraNEP-32" value="metric?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="523.6800000000001" y="690" width="70" height="30" as="geometry" />
+          <mxGeometry x="610" y="680" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2I6tu4B--KC1xBCraNEP-35" value="Experiment" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="260" y="740" width="90" height="30" as="geometry" />
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2I6tu4B--KC1xBCraNEP-44" value="Similar to K8s deployment yaml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="475" y="530" width="220" height="30" as="geometry" />
+          <mxGeometry x="460" y="535" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
